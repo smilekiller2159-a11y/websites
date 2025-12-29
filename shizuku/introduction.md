@@ -1,45 +1,104 @@
-# Introduction
+HADSHOT_+_HOLLOW_GRAM_+_INVISIBLE_GLO_MAIN_ID_SAIF_✅🔥_1.7z
+1	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/StreamOptional
+2	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_13.2jmj7l5rSw0yVb~2FvlWAYkK~2FYBwk~3D
+3	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_42.2jmj7l5rSw0yVb~2FvlWAYkK~2FYBwk~3D
+4	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_43.2jmj7l5rSw0yVb~2FvlWAYkK~2FYBwk~3D
+5	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_50.2jmj7l5rSw0yVb~2FvlWAYkK~2FYBwk~3D
+6	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_69.2jmj7l5rSw0yVb~2FvlWAYkK~2FYBwk~3D
+7	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_female_animctrl.2jmj7l5rSw0yVb~2FvlWAYkK~2FYBwk~3D
+8	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_male_animctrl.2jmj7l5rSw0yVb~2FvlWAYkK~2FYBwk~3D
+9	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/UGCCustom/android/customugcres/fileinfo
+10	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/..7z
+11	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/fileinfo
+12	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_156.3xSjIXpq8d9gZwpOGQyOPWA8Ql4~3D
+13	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_157.M~2FZ~2Fz3211maMgk5PHmbbdNS3KBc~3D
+14	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_19_1.oYCDKGiKiHiyFZk5gCUcXPpWZx4~3D
+15	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_20_1.ul292GrylWhmgeitwE13I6TFisI~3D
+16	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_21_1.AMVqG~2FBl0XS2b64rxhdo92TngeE~3D
+17	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_403.Cy3ysOkVpXJiEQ~2FkgPxuw~2FWR0BY~3D
+18	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_451.SN43cqmXsIBqG~2FNnQIDwHW2DkWc~3D
+19	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_5_1.aCEsKgyw~2Fkzi7~2ByApE4SXFF8nyc~3D
+20	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_620.MePmPTmhd5OXgCFTlGLKTqTmhok~3D
+21	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_622.vIeaysAZNbx9jbSUVVN9luQpjU4~3D
+22	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_624.uBHEjpLVDP57qd3x~2BwYjissqCq0~3D
+23	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_6_1.a754SMjln6PJWaCqnkdzmk3BzAA~3D
+24	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_7_1.QEAVhKpuI3CUUP4FmxRFreDrekU~3D
+25	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_9_1.17RpKFmeXcpHHsxqr8vU4Sq8~2By0~3D
+26	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_legendweapon_020.RF8eTGlMnPBEh1E87M7xO6Xt0mo~3D
+27	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalab_parachute_003.pDF1MNxG8Xc598TzsSeuzugMnx8~3D
+28	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalclothres_commonab_texture_0.OdgzlxpK7bl~2FsVFRqMijlRqCq6g~3D
+29	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalclothres_commonab_texture_37.SsjD2yCQ~2Fh2~2BUGSCWpiy~2Fiy~2BdsU~3D
+30	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalclothres_commonab_texture_40.LjJdhwVvlhROjZe7AtrcTCZ3Qj4~3D
+31	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalclothres_commonab_texture_41.NjAC7pAc7a~2FQDICj4MOX5B5sIvw~3D
+32	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalclothres_commonab_texture_45.sJAKASFpRPa8Xoz66N7deKP0XaY~3D
+33	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalclothres_commonab_texture_51.JgOko1onOq6NFshQtZWJjtUSvWo~3D
+34	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/optionalclothres_commonab_texture_52.oDx1i9Pa2t1mcqjH9RQ3bbDhC88~3D
+35	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/shaders.TGxBMWytx~3D
+36	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/gameassetbundles/shaders.YoutubeBMWytxOB51BMWytx~3D
+37	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/fileinfo
+38	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_620.MePmPTmhd5OXgCFTlGLKTqTmhok~3D
+39	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_622.vIeaysAZNbx9jbSUVVN9luQpjU4~3D
+40	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_01.wtAl6MLetHNrj4KlqMQoHj6WRLw~3D
+41	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_03.9KvLbSTph6nIF0~2BmWlN~2FYIxiCWA~3D
+42	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_04.AYBfzX2htMiUbaIgRtixunEPpjo~3D
+43	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_05.KaE7pImKZ5uxzz7Ag~2BoqWOuf3oU~3D
+44	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_06.V~2FFAPIQ87HHqOuj~2BWdGMsICvmc0~3D
+45	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_07.V8~2FTVoPlOUoz8x~2FT7g4nk9eVllU~3D
+46	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_08.OtzXNdIaRskOUha8lm4km2TjnQ8~3D
+47	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_09.dPsBGEAPFn00e~2FoVapwG~2BlTTPKA~3D
+48	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_10.CbvVqGmKeXlZmk5hX73zfvPmVE0~3D
+49	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_11.xMY8P9MMJOE~2ByHx19jzKpOntWUI~3D
+50	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_12.6w1uljk0pwhUPRYOYRiRCxLt3Lk~3D
+51	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_14.~2BdjUjrdmLPxyq~2FwJaNX68jndIiY~3D
+52	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_15.RRrbcLAqRmBky9J5QLmcstuFPCU~3D
+53	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_16.Jczn5ML5~2F4nuCNLsJ~2FMWAc6eqD0~3D
+54	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_18.VZOb9cNTIFt728juv2~2FPxtvM~2Be4~3D
+55	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_19.S6zNdmCmNCjV1jope1lvDFgkpwk~3D
+56	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_20.XsNPCQQ7pQj76vxQAq88dnmH92E~3D
+57	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_21.JR72TFOkmYckjg6JTzMOabDwz1s~3D
+58	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_22.xcNnEkZKG~2BhrICcIDKu0jm4t~2FjQ~3D
+59	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_23.zHFTyk4wA7nPWwkZ8~2Foo5o3aV7c~3D
+60	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_24.7ygnmeKH0qFJABWvkY4haoYXk9g~3D
+61	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_25.sw3v3lVAGAj8gRtt71gz0~2Fgne~2Bg~3D
+62	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_26.xEIvCmlUrzRZZkcp3akACOh05ug~3D
+63	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_27.L7h~2F~2F8XHzP4Bv2WFclM3SYo8~2BFM~3D
+64	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_28.nO9dToLMc99MbUFNdK2SvWlsmLs~3D
+65	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_29.oAlRPb4UEzfMD21LntnLb0tF9~2FQ~3D
+66	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_30.OKwbnf~2BVKl2GtcSfHny1F1nrAkw~3D
+67	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_31.m~2FC3ffVAX~2FxsxkEWYcJOkhKK2~2B8~3D
+68	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_32.ljyedGc1FWpJKoJWhl67fnCMaMo~3D
+69	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_33.72kTCbNKuTScje9~2BttqFdw62GdQ~3D
+70	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_34.OsQ0~2BxqrAmEdisagozBt4Rc~2FAkg~3D
+71	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_35.dN7rDBpJZFGi~2FYeAqVZxmGFMLjA~3D
+72	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_36.0B~2BzUXRQTkxBJC7HMaVfuwyBvsA~3D
+73	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_37.rpjRJq~2F7xGzsWJ5b8DSZGUKUdQc~3D
+74	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_38.QdBaEOMKMJoMSn7vRV~2BQIN1X4sk~3D
+75	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_40.oU4oQTpHEd58WAijLoZKkwLiNDA~3D
+76	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_41.2mYVBXnKZ3RVedEPt95ecGd1tU0~3D
+77	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_44.KUEah93~2FCRSki~2BMXIlsaE10XGlI~3D
+78	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_45.V4L3nfXg23EnQSDOGua6agZy6xw~3D
+79	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_46.yJDxwqHYPpfG06~2F7I0vcapXdfRQ~3D
+80	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_47.gGo2YqCuRMMdjLsHQXEt13GiBJI~3D
+81	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_48.w367xLs2JBFuL6RGbNtkS5pEuEg~3D
+82	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_49.yGSC8IgZ~2FVY8x7ld1HifX3KbY9w~3D
+83	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_51.lTqPSVfV98B7wYwbQ29BPaEtmQI~3D
+84	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_52.2k~2BV5SMOSvtVmnz1fQkxLD03zLE~3D
+85	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_53.Bkz3TL8Nc7pWZs3MOfKkhDtdQ~2Fg~3D
+86	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_54.nsJgcx9wltQy~2FDutdO625DvMloA~3D
+87	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_55.ILpNNof6IrYiGL6mAdwenH97jV0~3D
+88	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_56.8cKeNaIH~2BPIIUzirCWKVe2Kx8SY~3D
+89	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_57.nrK8ch38G~2FR3JtAAsWPIdSZakfY~3D
+90	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_58.kUEaU98Js~2B4Pn1rI9EmTzuDkavU~3D
+91	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_59.8j0Lwj9FEiAq2Uyi8GOcFFNYJts~3D
+92	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_60.xA0qORihkXBwKCoJaHVm~2FsGjy2g~3D
+93	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_61.cfXVDN0PaDAqda~2F4~2Bb0BYeOicP0~3D
+94	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_62.XRcuCvYf4IACTkDa~2FPPiWNUjlo4~3D
+95	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_63.xMy36QxZTbqCVcdnCpbTJ57MKls~3D
+96	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_64.ZvQmoqsrds4qgNZdN3T39zTqWDU~3D
+97	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_65.uHxdTF2F2cGyCcXc30FxVF~2FvPkE~3D
+98	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_66.J9za795WtCjvSvfuKoHez8lYD38~3D
+99	Cannot delete output file : errno=13 : Permission denied : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_67.heaECn7wWo2PowcGVtGbAW9rl2c~3D
+100	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_68.Ro36P6oWlLnCOgPXnntPkJVCgVg~3D
+101	Cannot open output file : errno=2 : No such file or directory : /storage/emulated/0/‪Android/data/com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/optionalab_avatar_70.Z4uWAqYQaS9b9UFjjFjXpBTnuKQ~3D
 
-Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
-The name Shizuku comes from [a character](https://danbooru.donmai.us/posts/3553474).
-
-## Why was Shizuku born?
-
-The birth of Shizuku has two main purposes.
-
-1. Provide a convenient way to use system APIs
-2. Convenient for the development of some apps that only requires adb permissions
-
-## Shizuku vs. "Old school" method
-
-### "Old school" method
-
-For example, to enable/disable components, some apps that require root privileges execute `pm disable` directly in `su`.
-
-1. Execute `su`
-2. Execute `pm disable`
-3. (pre-Pie) Start the Java process with app_process ([see here](https://android.googlesource.com/platform/frameworks/base/+/oreo-release/cmds/pm/pm))
-4. (Pie+) Execute the native program `cmd` ([see here](https://android.googlesource.com/platform/frameworks/native/+/pie-release/cmds/cmd/))
-5. Process the parameters, interact with the system server through the binder, and process the result to output the text result.
-
-Each of the "Execute" means a new process creation, su internally uses sockets to interact with the su daemon, and a lot of time and performance are consumed in such process. (Some poorly designed app will even execute `su` **every time** for each command)
-
-The disadvantages of this type of method are:
-
-1. **Extremely slow**
-2. Need to process the text to get the result
-3. Features are subject to available commands
-4. Even if adb has sufficient permissions, the app requires root privileges to run
-
-### Shizuku method
-
-The Shizuku app will direct the user to run a process (Shizuku service process) using root or adb.
-
-1. When the app process starts, the Shizuku service process sends the binder to the app process.
-2. The app interacts with the Shizuku service through the binder, and the Shizuku service process interacts with the system server through the binder.
-
-The advantages of Shizuku are:
-
-1. Minimal extra time and performance consumption
-2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code)
